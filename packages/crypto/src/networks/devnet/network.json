@@ -13,6 +13,6 @@
   "client": {
     "token": "TST",
     "symbol": "TST",
-    "explorer": "http://0.0.0.0:4200"
+    "explorer": "http://167.71.248.99:4200"
   }
 }
